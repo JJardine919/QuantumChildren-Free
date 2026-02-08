@@ -1,0 +1,70 @@
+# ============================================================
+# QUANTUM CHILDREN FREE - GIT IGNORE
+# ============================================================
+
+# Databases
+*.db
+*.sqlite3
+
+# Trained models
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Credentials
+.env
+*.env
+.env.*
+!.env.example
+credentials.json
+secrets.json
+
+# Logs
+*.log
+*.jsonl
+logs/
+
+# Runtime
+watchdog_stats.json
+te_quantum_signal*.json
+
+# Windows copy duplicates
+* - Copy*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# MT5 compiled
+*.ex5
+*.ex4
+
+# Archives
+*.zip
+*.7z
+*.tar.gz
+
+# Private directories (not part of free distribution)
+QuantumTradingLibrary/
+DEPLOY/
+ETARE/
+QuantumChildren-github/
+QuantumTradingLibrary-github/
+jimjj-github/
+my-trading-work/
+StrikeBOSS/
+CASCADE_FREE_SYSTEM/
