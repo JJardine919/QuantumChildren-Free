@@ -104,7 +104,7 @@ No. Only signals, entropy values, and trade outcomes. No passwords, no account n
 This is trading. There's risk. Start with demo accounts or small positions.
 
 **How do I know it's getting better?**
-Check the network stats: http://203.161.61.61:8888/stats
+Check the network stats: https://quantum-children.com/signal-farm
 
 ---
 
@@ -113,14 +113,15 @@ Check the network stats: http://203.161.61.61:8888/stats
 This is free software. No paid support.
 
 But the community helps each other:
-- GitHub Issues (coming soon)
+- [GitHub Issues](https://github.com/JJardine919/QuantumChildren-Free/issues)
 - Discord (coming soon)
+- [Website](https://quantum-children.com)
 
 ---
 
 ## License
 
-MIT License. Do whatever you want.
+GPL-3.0 License. Free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
 Just keep the entropy collector running - that's how we all win.
 
