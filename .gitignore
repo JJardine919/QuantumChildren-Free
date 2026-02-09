@@ -68,3 +68,35 @@ jimjj-github/
 my-trading-work/
 StrikeBOSS/
 CASCADE_FREE_SYSTEM/
+
+# Claude session data
+.claude/
+CLAUDE.md
+
+# Internal build guides and docs
+BUILD_GUIDE_*.md
+MASTER_BUILD_GUIDE.md
+ETARE_Windows_Build_Guide.md
+docs/
+
+# Research/experimental directories
+3D Barz/
+LLM + CATBOOST/
+PRIME NUMBER INDICATOR/
+QUANTUM GRADIENT BOOSTING/
+RAPID LLM/
+WIZARD TEKS*/
+adaptation/
+bidirec lstm/
+movement options on the IBM/
+website/
+
+# Standalone scripts (private)
+quantum_backtest.py
+quantum_bridge.py
+quantum_grid_live.py
+triple_expert_grid.py
+
+# Windows null device artifact
+nul
+python
